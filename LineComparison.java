@@ -1,4 +1,4 @@
-package Day3Line;
+package LineCompariosn;
 
 import java.util.Objects;
 import java.util.Scanner;
